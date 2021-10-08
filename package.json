@@ -5,13 +5,7 @@
     "build": "next build"
   },
   "dependencies": {
-    "@emotion/react": "^11.4.1",
-    "@emotion/styled": "^11.3.0",
-    "markdown-editor": "file:C:\\prog\\npms\\@react-libraries\\markdown-editor",
-    "next": "^11.1.3-canary.51",
-    "remark-gfm": "^3.0.0",
-    "remark-parse": "9",
-    "unified": "9"
+    "next": "^11.1.2"
   },
   "devDependencies": {
     "@types/react": "^17.0.27",
