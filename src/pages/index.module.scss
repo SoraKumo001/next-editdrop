@@ -1,0 +1,11 @@
+.root {
+  padding: 8px;
+  .button {
+    background: white;
+    user-select: none;
+    cursor: pointer;
+    display: inline-block;
+    border: 1px solid;
+    padding: 2px;
+  }
+}
